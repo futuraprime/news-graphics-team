@@ -40,7 +40,7 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 * [Youyou Zhou](https://twitter.com/zhoyoyo)
 * ? 
 
-## BCC News Graphics
+## BBC News Graphics
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
 * [Amanda Farnsworth](https://twitter.com/farnsa)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
