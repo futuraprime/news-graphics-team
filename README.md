@@ -109,6 +109,7 @@ London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * [Evan Hensleigh](https://twitter.com/futuraprime)
 * [Sarah Leo](https://twitter.com/misssarahleo)
 * [Adam Meara](https://twitter.com/admeara)
+* [Matt McLean](https://twitter.com/matterofmatt)
 
 ## Financial Times Data
 London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
